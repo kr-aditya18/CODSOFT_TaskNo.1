@@ -34,5 +34,4 @@ The To-Do List Application is a handy project designed to help users manage and 
 ## 🌟 Contributing
 Feel free to contribute by submitting issues, feature requests, or pull requests. Let's improve this project together!
 
-## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
